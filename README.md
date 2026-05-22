@@ -196,6 +196,6 @@ This indicates workforce flexibility and employment structure.
 
 ---
 
-**Dashboard Created By**: DEBRUP MUKHERJEE ENTERPRISES
+**Dashboard Created By**: DEBRUP MUKHERJEE 
 
 **Analysis Period**: Comprehensive workforce snapshot with salary trends (2018-2026)
